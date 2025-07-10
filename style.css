@@ -27,14 +27,16 @@ body{
   cursor: pointer;
   font-size: 16px;
   font-weight: bold;
+  transition: 0.5s;
 }
 
 
 
 .btn-primary:hover{
-    background-color:#ff4800;
+    background-color:#f1c30d;
+    color: black;
     transform: scale(1.1);
-    transition: 2s;
+    transition: 0.5;
 }
 
 
@@ -113,3 +115,56 @@ body{
     height: 328px;
     border-radius: 48px;
 }
+
+
+/* Productive Users Section style  */
+.productive-users{
+    background-color: rgba(78, 71, 255, 0.1);
+    width: 1140px;
+    height: 306px;
+    margin: 116px auto;
+    border-radius: 24px;
+}
+
+.productive-container{
+    width: 856px;
+    height: 206px;
+    margin: 50px auto;
+}
+
+.productive-users-title{
+    font-family: "Raleway", sans-serif ;
+    font-size: 38px;
+    font-weight: 600;
+    text-align: center;
+    position: relative;
+    top: 50px;
+}
+
+
+.centered-items{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 856px;
+    height: 121px;
+    margin-top: 40px;
+}
+
+
+.centered-num{
+    font-family:"Inter", sans-serif;
+    font-size: 80px ;
+    font-weight: 600;
+    color: #4E47FF;
+    margin-top: 70px;
+}
+
+.centered-dsc{
+    font-family:"Inter", sans-serif;
+    font-size: 20px;
+    color:rgba(0, 0, 0, 0.5) ;
+    text-align: center;
+    margin-top: 0px;
+}
+
