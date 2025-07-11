@@ -326,3 +326,71 @@ button:hover {
     transform: scale(1.1);
     transition: 0.5s;
 }
+
+
+/* Footer Section Style */
+
+
+
+.footer-section{
+    background-color: #FFFFFF;
+    width: 1440px;
+    height: 428px;
+    margin: 5px auto;
+    text-align: center;
+    font-family:"Inter", sans-serif;
+}
+
+
+
+ .site-name{
+   width: 532px;
+   height: 177px;
+   text-align: center;
+   margin: 0px auto;
+}
+
+.site-logo{
+    padding-top: 104px ;
+    font-size: 100px;
+    font-weight: 800;
+    color: #4e47ff;
+}
+
+.site-dsc{
+    width: 531px;
+    height: 48px;
+    font-weight: 400;
+    color: #8987a1 ;
+    margin-top: -50px;
+}
+
+
+.footer-link ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 48px;
+    margin-top: 120px;
+}
+
+.footer-link ul li{
+    list-style: none;
+}
+
+.footer-link ul a{
+    text-decoration: none;
+    font-weight: 400;
+    color: #8987a1;
+    transition: 0.5s;
+}
+
+.footer-link ul a:hover{
+    background-color:#f1c30d;
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-weight: bold;
+    transform: scale(1.1);
+    transition: 0.5s;
+}
