@@ -2,7 +2,9 @@
 
 A modern, professional, dark-themed landing page template designed for Webflow agencies and digital creatives. This project features a bold, clean UI with a focus on usability, conversion, and showcasing your agency or SaaS offering.
 
-![Landing Page Screenshot](Screenshot_PC)
+
+Desktop View:
+![Desktop Screenshot](Screenshot_PC.png)
 
 ## 🚀 Live Demo
 
@@ -29,8 +31,6 @@ B12A01_landing_launchpad/
 │   └── images/
 ├── css/
 │   └── styles.css
-├── js/
-│   └── main.js
 ├── index.html
 └── README.md
 ```
