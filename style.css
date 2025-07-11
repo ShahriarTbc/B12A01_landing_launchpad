@@ -20,9 +20,9 @@ body{
   background-color:  #4E47FF ;
   font-family:"Raleway", sans-serif ;
   color: white;  
-  padding: 10px 20px;
+  padding: 12px 36px;
   border: none;
-  border-radius: 5px;
+  border-radius: 10px;
   cursor: pointer;
   font-size: 16px;
   font-weight: bold;
@@ -36,6 +36,13 @@ body{
     color: black;
     transform: scale(1.1);
     transition: 0.5s;
+}
+
+.webFlow-img{
+    width: 840px;
+    height: 364px;
+    border-radius: 48px;
+    margin-top: 20px;
 }
 
 
@@ -248,6 +255,57 @@ body{
     margin-top: -17px;
 }
 
+/* Web Flow Section Style  */
+.webFlow-section{
+    width: 1140px;
+    height: 696px;
+    margin: 137px auto;
+    background-color: #FFFFFF;
+    font-family:"Raleway", sans-serif;
+    text-align: center;
+    
+}
+
+.webFlow-title{
+    font-size: 50px;
+    font-weight: bold;
+    padding-top: 70px;
+}
+
+.webFlow-dsc{
+    font-family:"Inter", sans-serif;
+    font-weight: 400;
+    text-align: center;
+    font-weight: 400;
+    color: #8987a1;
+    margin-top: -20px;
+}
+
+.sec-btn {
+  background-color:  #4E47FF ;
+  font-family:"Raleway", sans-serif ;
+  color: white;  
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: 400 ;
+  padding: 12px 36px;
+  transition: 0.5s;
+}
+
+
+
+.sec-btn:hover{
+    background-color:#f1c30d;
+    color: black;
+    transform: scale(1.1);
+    transition: 0.5s;
+}
+
+
+
 
 /* Let’s Get In Touch Section Style  */
 .touch-section {
@@ -361,7 +419,7 @@ button:hover {
     width: 531px;
     height: 48px;
     font-weight: 400;
-    color: #8987a1 ;
+    color: #8987a1;
     margin-top: -50px;
 }
 
