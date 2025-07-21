@@ -8,7 +8,7 @@ Desktop View:
 
 ## 🚀 Live Demo
 
-[View on GitHub Pages](https://shahriartbc.github.io/B12A01_landing_launchpad/)
+[View on GitHub Pages](https://shariar-ahamed.github.io/B12A01_landing_launchpad/)
 
 ---
 
@@ -68,7 +68,7 @@ B12A01_landing_launchpad/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/ShahriarTbc/B12A01_landing_launchpad.git
+   git clone https://github.com/shariar-ahamed/B12A01_landing_launchpad.git
    cd B12A01_landing_launchpad
    ```
 
@@ -100,8 +100,8 @@ This project is open source and available under the [MIT License](LICENSE).
 ## 🙏 Acknowledgements
 
 - Inspired by modern SaaS and Webflow agency landing pages.
-- Design and development by [ShahriarTbc](https://github.com/ShahriarTbc).
+- Design and development by [shariar-ahamed](https://github.com/shariar-ahamed).
 
 ---
 
-> Ready to elevate your online presence? [Check out the live demo!](https://shahriartbc.github.io/B12A01_landing_launchpad/)
+> Ready to elevate your online presence? [Check out the live demo!](https://shariar-ahamed.github.io/B12A01_landing_launchpad/)
